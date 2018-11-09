@@ -6,3 +6,7 @@
 
 # How to install android Pie to Redmi Note 3?
   Please refer to: https://github.com/kueihua100/Docs/blob/master/system/How_to_install_android_Pie_to_Redmi_Note_3.md 
+
+# TWRP image
+  You can get a copy from below link:
+  [TWRP_Image_3.2.3](https://github.com/kueihua100/redmi_note3_rom/tree/master/twrp_img)
