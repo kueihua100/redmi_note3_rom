@@ -4,6 +4,9 @@
     There are many sources that I refered to:
     LineageOS, ArrowOS...
 
+# Release  
+Please get form [RELEASE](https://github.com/kueihua100/redmi_note3_rom/releases)
+
 # How to install android Pie to Redmi Note 3?
   Please refer to: https://github.com/kueihua100/Docs/blob/master/system/How_to_install_android_Pie_to_Redmi_Note_3.md 
 
